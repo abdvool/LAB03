@@ -1,0 +1,51 @@
+.Cars1  {
+  display: inline-block;
+   
+    margin-left: 15%; 
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#header {
+
+border-radius: 50%;
+
+}
+
+
+.cars2 {
+
+  display: inline-block;
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    margin-left: 15%; 
+
+}
+
+body {
+  margin: 0%;
+
+}
+
+body {
+   background-image: url(https://thumbs.dreamstime.com/b/red-car-side-view-crossover-front-half-white-background-d-render-illustration-162825213.jpg);
+ background-repeat: no-repeat;
+ background-position: right top 20%;
+}
+
+footer{
+  height: 50px;
+  background-color: #FAF9F6;
+
+  text-align: center;
+}
+
+#info {
+
+float: right;
+  width: 10%;
+
+}
+
+
