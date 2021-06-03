@@ -38,4 +38,4 @@ if (who == "killer") {
 
 
 
-document.write("Hello World!");
+document.write("Cars!");
